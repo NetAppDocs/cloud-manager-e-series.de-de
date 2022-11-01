@@ -1,0 +1,62 @@
+---
+settings:
+  name: E-Series
+  platform: cloud
+  internal:
+    pdf_enabled: true
+  prod:
+    pdf_enabled: true
+    harmony_enabled: false
+  langs: de-de,us-en,ja-jp,zh-cn,zh-tw,ko-kr,fr-fr
+sidebar:
+  entries:
+  - title: E-Series Dokumentation
+    url: "/index.html"
+  - title: Versionshinweise
+    url: "/whats-new.html"
+  - title: Los geht's
+    entries:
+    - title: E-Series Systeme erkennen
+      url: "/task-discover-e-series.html"
+  - title: Managen Sie E-Series Cluster
+    entries:
+    - title: Sie sehen Ihre E-Series Systeme an
+      url: "/task-view-e-series.html"
+    - title: E-Series entfernen
+      url: "/task-remove-e-series.html"
+  - title: Wissen und Support
+    entries:
+    - title: Für den Support anmelden
+      url: "/task-support-registration.html"
+    - title: Holen Sie sich Hilfe
+      url: "/task-get-help.html"
+  - title: Rechtliche Hinweise
+    url: "/legal-notices.html"
+homepage:
+  tiles:
+  - title: Los geht's
+    links:
+    - title: E-Series Systeme erkennen
+      url: "/task-discover-e-series.html"
+  - title: Management von E-Series Systemen
+    links:
+    - title: Sie sehen Ihre E-Series Systeme an
+      url: "/task-view-e-series.html"
+    - title: E-Series entfernen
+      url: "/task-remove-e-series.html"
+  - title: Weiterführende Links
+    links:
+    - title: E-Series Dokumentation für Management außerhalb von BlueXP
+      url: https://docs.netapp.com/us-en/e-series-family/
+  - title: Blogs Community
+    links:
+    - title: NetApp Community
+      url: https://community.netapp.com/t5/Cloud-Data-Services/ct-p/CDS
+    - title: BlueXP-Blog
+      url: https://cloud.netapp.com/blog
+    - title: Cloud-Webinare
+      url: https://cloud.netapp.com/events
+product-family:
+  name: BlueXP
+  repo: cloud-manager-family
+  sidebar_label: Alle BlueXP-Dokumentationen

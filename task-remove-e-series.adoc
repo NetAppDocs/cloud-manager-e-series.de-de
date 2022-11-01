@@ -1,0 +1,28 @@
+---
+sidebar: sidebar 
+permalink: task-remove-e-series.html 
+keywords: e-series, remove, delete, remove e-series, delete cluster, delete working environment, remove working environment 
+summary: Entfernen Sie eine Arbeitsumgebung der E-Series, wenn Sie sie nicht mehr über BlueXP managen möchten. 
+---
+= Entfernen Sie eine E-Series Arbeitsumgebung
+:hardbreaks:
+:allow-uri-read: 
+:nofooter: 
+:icons: font
+:linkattrs: 
+:imagesdir: ./media/
+
+
+[role="lead"]
+Entfernen Sie eine Arbeitsumgebung der E-Series, wenn Sie sie nicht mehr über BlueXP managen möchten.
+
+Das Entfernen der Arbeitsumgebung hat keine Auswirkungen auf das E-Series System. Sie können sie jederzeit über BlueXP wiederentdecken.
+
+.Schritte
+. Doppelklicken Sie auf dem Bildschirm auf den Namen der E-Series Arbeitsumgebung.
+. Klicken Sie auf das Menüsymbol und wählen Sie *aus Arbeitsbereich entfernen*.
++
+image:screenshot-remove.png["Ein Screenshot der Option aus Arbeitsbereich entfernen, die im Menü oben rechts in der Arbeitsumgebung verfügbar ist."]
+
+. Klicken Sie zur Bestätigung auf *Entfernen*.
+

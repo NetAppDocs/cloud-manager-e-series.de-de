@@ -1,0 +1,36 @@
+---
+sidebar: sidebar 
+permalink: task-view-e-series.html 
+keywords: e-series, cluster, view, volumes, hosts, management ip, serial number, system id, capacity, allocated capacity 
+summary: Nachdem Sie die E-Series Systeme ermittelt haben, können Sie Details zur Kapazitätsverteilung, zu Volumes und Hosts anzeigen. 
+---
+= Sie sehen Ihre E-Series Systeme an
+:hardbreaks:
+:allow-uri-read: 
+:nofooter: 
+:icons: font
+:linkattrs: 
+:imagesdir: ./media/
+
+
+Nachdem Sie die E-Series Systeme ermittelt haben, können Sie Details zur Kapazitätsverteilung, zu Volumes und Hosts anzeigen.
+
+.Schritte
+. Doppelklicken Sie auf dem Bildschirm auf den Namen der E-Series Arbeitsumgebung, die Sie anzeigen möchten.
+. Wählen Sie eine der Registerkarten aus, um weitere Details zu Ihrem E-Series System anzuzeigen:
++
+** *Überblick*: Eine detaillierte Ansicht der Kapazitätsverteilung (zugewiesene, freie und nicht zugewiesene Kapazität) des Systems, der Anzahl der Volumes, Hosts und mehr.
++
+image:screenshot-overview.png["Ein Screenshot der Registerkarte „Übersicht“ in einer E-Series Arbeitsumgebung."]
+
+** *Volumes*: Details zu den Volumes auf dem System, einschließlich Zuweisung, RAID-Level, zugewiesene Kapazität und mehr.
++
+image:screenshot-volumes.png["Einen Screenshot der Registerkarte Volumes in einer E-Series Arbeitsumgebung."]
+
+** *Hosts*: Details zu den Hosts, die I/O an ein Volume auf dem Speichersystem senden.
++
+image:screenshot-hosts.png["Einen Screenshot der Registerkarte Hosts in einer E-Series Arbeitsumgebung."]
+
+
+
+

@@ -15,7 +15,7 @@ summary: BlueXP kann die E-Series Storage-Systeme in Ihrer On-Premises-Umgebung 
 
 BlueXP kann die E-Series Storage-Systeme in Ihrer On-Premises-Umgebung entdecken. Wenn Sie BlueXP Systeme der E-Series hinzufügen, erhalten Sie eine vollständige Ansicht der Daten in Ihrer Hybrid-Multi-Cloud.
 
-.Was Sie und#8217;ll benötigen
+.Was Sie benötigen
 * Ein Connector, der bei einem Cloud-Provider oder vor Ort installiert wird und die Netzwerkverbindung zu dem E-Series Storage-System bietet
 +
 https://docs.netapp.com/us-en/cloud-manager-setup-admin/concept-connectors.html["Erfahren Sie mehr über Anschlüsse und wie Sie einen Anschluss erstellen"^]
@@ -38,6 +38,7 @@ image:screenshot-cluster-details.png["Ein Screenshot, der die Seite „E-Series 
 
 
 
+.Ergebnis
 BlueXP erkennt das E-Series Storage-System und fügt es als Arbeitsumgebung auf dem Canvas hinzu.
 
 image:screenshot-canvas.png["Ein Screenshot, der eine E-Series Arbeitsumgebung auf dem BlueXP Canvas zeigt."]
